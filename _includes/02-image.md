@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cartoon sun](https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png)
